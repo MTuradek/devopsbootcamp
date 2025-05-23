@@ -22,6 +22,4 @@ git clone git@github-PLACEHOLDER:MTuradek/devopsbootcamp.git
 ```bash
 git config --local commit.gpgSign false
 git config --local --get commit.gpgSign
-
-false
 ```
