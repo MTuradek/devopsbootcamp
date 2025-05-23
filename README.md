@@ -23,3 +23,8 @@ git clone git@github-PLACEHOLDER:MTuradek/devopsbootcamp.git
 git config --local commit.gpgSign false
 git config --local --get commit.gpgSign
 ```
+5. Add user data to local repository
+```bash
+git config --local user.name "PLACEHOLDER"
+git config --local user.email "PLACEHOLDER"
+```
